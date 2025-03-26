@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Blif Docs',
+  title: 'Blif',
   tagline: 'Fast & Secure USDT to Mobile Money & Bank Transfers',
   favicon: 'img/favicon.ico',
 
